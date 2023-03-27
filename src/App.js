@@ -1,7 +1,7 @@
 import { useState } from 'react';
 
 import Question from 'components/Question';
-import data from 'services/questionService';
+import data from 'questionService';
 
 import './App.css';
 
