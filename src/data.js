@@ -13,7 +13,7 @@ const questions = [
   },
   {
     id: 3,
-    title: "What is BankID?",
+    title: 'What is BankID?',
     info:
       "Enamel pin fam sustainable woke whatever venmo. Authentic asymmetrical put a bird on it, lumbersexual activated charcoal kinfolk banjo cred pickled sartorial.",
   },
