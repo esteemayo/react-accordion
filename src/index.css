@@ -227,7 +227,7 @@ main {
   border-color: transparent;
   width: 2rem;
   height: 2rem;
-  background: var(--clr-grey-special);
+  background-color: var(--clr-grey-special);
   display: flex;
   align-items: center;
   justify-content: center;
