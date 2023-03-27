@@ -173,7 +173,7 @@ main {
 .container {
   width: 90vw;
   margin: 5rem auto;
-  background: var(--clr-white);
+  background-color: var(--clr-white);
   border-radius: var(--radius);
   padding: 2.5rem 2rem;
   max-width: var(--fixed-width);
