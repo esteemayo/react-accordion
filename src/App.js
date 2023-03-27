@@ -1,5 +1,6 @@
 import { useState } from 'react';
 
+import data from './data';
 import Question from 'components/Question';
 import data from './data';
 
