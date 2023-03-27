@@ -1,5 +1,5 @@
-import { useState } from "react";
-import { AiOutlineMinus, AiOutlinePlus } from "react-icons/ai";
+import { useState } from 'react';
+import { AiOutlineMinus, AiOutlinePlus } from 'react-icons/ai';
 
 const Question = ({ title, info }) => {
   const [showInfo, setShowInfo] = useState(false);
